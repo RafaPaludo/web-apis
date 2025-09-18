@@ -7,11 +7,11 @@ Esse repositório tem como objetivo centralizar meus estudos em diferentes apis 
 
 ### Semana 1 — Essenciais (fundamentos + o que todo front precisa)
 
-- DOM API → Criar um mini to-do list manipulando elementos direto no JS (sem framework).
+[x] DOM API → Criar um mini to-do list manipulando elementos direto no JS (sem framework).
 
 - Fetch API → Fazer um viewer de posts (ex: pegar dados da API JSONPlaceholder).
 
-- History API → Criar uma SPA simples com 2 “páginas” (home/about) sem usar roteador.
+[x] History API → Criar uma SPA simples com 2 “páginas” (home/about) sem usar roteador.
 
 - Storage API (localStorage) → To-do list persistente (dados ficam após reload).
 
