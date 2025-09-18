@@ -64,3 +64,9 @@ Ao clicar em um link com o atributo data-link, pegamos a rota desejada, instanci
 Aqui são criadas as views.
 São classes que definem como cada página deve ser exibida.
 Muda o título da página e também retorna o html que deve ser renderizado na página.
+
+
+### Referências
+
+https://www.youtube.com/watch?v=6BozpmSjk-Y
+https://developer.mozilla.org/en-US/docs/Web/API/History_API
